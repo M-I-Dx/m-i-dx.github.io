@@ -1,18 +1,35 @@
 - title: "Supply Chain Optimization Engine"
-  type: "Current applied ML"
-  description: "A solver-agnostic logistics optimization program for shipping, capacity, routing, and demand-priority decisions in forestry operations."
-  impact: "Projected to reduce annual logistics costs by approximately $1.5M."
+  type: "Applied mathematics"
+  status: "Current"
+  description: "A large-scale linear programming and operations research project for modeling shipping, capacity, routing, and demand-priority decisions in forestry operations."
+  context: "Forestry supply chain planning with capacity limits, demand priorities, and routing tradeoffs."
+  role: "Own mathematical modeling, solver comparison, and translation of operational rules into solver-ready formulations."
+  outcome: "Projected annual logistics savings of approximately $1.5M."
+  impact: "Showcases practical mathematical modeling by translating business constraints into objective functions and constraint systems, with projected annual logistics savings of approximately $1.5M."
+  methods:
+    - "Linear and mixed-integer programming"
+    - "Solver benchmarking"
+    - "Constraint modeling"
   tags:
     - "Linear programming"
-    - "MIP"
+    - "Operations research"
+    - "Mathematical modeling"
     - "HiGHS"
     - "CPLEX"
     - "Gurobi"
 
 - title: "People-to-People Recommendation System"
   type: "Product ML"
+  status: "Product"
   description: "A matching and personalization workflow using LLM-derived features, RAG context, vector search, and behavioral analytics."
+  context: "Cloud-native recommendation and analytics workflows for a people-matching product."
+  role: "Enhanced feature engineering, retrieval, analytics, and deployment workflows."
+  outcome: "Improved recommendation evaluation and similarity search for product workflows."
   impact: "Improved recommendation evaluation and similarity search for cloud-native product workflows."
+  methods:
+    - "LLM-derived features"
+    - "Vector retrieval"
+    - "Behavioral analytics"
   tags:
     - "Recommenders"
     - "Qdrant"
@@ -22,8 +39,16 @@
 
 - title: "Biomedical Lay Summarization with LLMs"
   type: "NLP research"
+  status: "Research"
   description: "Generated accessible biomedical research summaries for non-expert audiences using domain-specific LLMs, prompt tuning, RAG, and representation engineering."
+  context: "Biomedical NLP workflow for making technical research easier for non-expert readers."
+  role: "Designed summarization prompts, retrieval context, and representation-control experiments."
+  outcome: "Improved factuality, readability, and accessibility of complex biomedical summaries."
   impact: "Improved factuality, readability, and accessibility of complex biomedical summaries."
+  methods:
+    - "Domain LLMs"
+    - "Prompt tuning"
+    - "RAG"
   tags:
     - "BioMistral7b"
     - "Prompt engineering"
@@ -33,8 +58,16 @@
 
 - title: "Annotated Corpus for Reasoning Explanations"
   type: "LLM reasoning"
+  status: "Research"
   description: "Created structured natural-language explanations for AI2 Reasoning Challenge questions and used Tree of Thought prompting to guide step-by-step problem solving."
+  context: "Science-question reasoning workflow for improving transparency in model outputs."
+  role: "Built explanation annotations and experimented with structured reasoning prompts."
+  outcome: "Improved transparency and reasoning quality for complex science-question workflows."
   impact: "Improved transparency and reasoning quality for complex science-question workflows."
+  methods:
+    - "Structured annotation"
+    - "Tree of Thought prompting"
+    - "Reasoning evaluation"
   tags:
     - "ARC"
     - "Tree of Thought"
@@ -43,8 +76,16 @@
 
 - title: "SpaceML Worldview Search"
   type: "Earth observation"
+  status: "Open source"
   description: "Active learning system for identifying relevant satellite imagery from petabyte-scale unlabeled Earth observation datasets."
+  context: "Citizen-science and NASA IMPACT collaboration for large-scale Earth observation data curation."
+  role: "Built active learning and labeling workflows for surfacing useful imagery from massive unlabeled datasets."
+  outcome: "Reduced labeling time from 7,000 hours to 52 minutes for a five-million-image climate dataset."
   impact: "Reduced labeling time from 7,000 hours to 52 minutes for a five-million-image climate dataset."
+  methods:
+    - "Active learning"
+    - "Self-supervised learning"
+    - "Human-in-the-loop labeling"
   tags:
     - "Active learning"
     - "Satellite imagery"
@@ -56,8 +97,16 @@
 
 - title: "Grape Leaf Disease Diagnosis"
   type: "Mobile ML"
+  status: "Published"
   description: "Real-time iOS app for grape leaf disease diagnosis with on-device deep learning, remedy suggestions, and model optimization."
+  context: "Mobile agricultural diagnosis system designed for real-time field use."
+  role: "Led mobile ML implementation, model optimization, and on-device inference integration."
+  outcome: "Optimized models with quantization and pruning for iPhone 8 and newer devices."
   impact: "Optimized models with quantization and pruning for iPhone 8 and newer devices."
+  methods:
+    - "On-device inference"
+    - "Quantization"
+    - "Model pruning"
   tags:
     - "Swift"
     - "Core ML"

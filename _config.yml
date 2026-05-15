@@ -1,5 +1,7 @@
 # Site
 title: "Mandeep"
+lang: "en-CA"
+author: "Mandeep"
 position: "Data Scientist | Machine Learning Engineer"
 location: "Vancouver, BC, Canada"
 email: "mandeepkhokhar1110@gmail.com"
@@ -25,6 +27,14 @@ hero_tags:
   - "LLM Systems"
   - "Recommenders"
   - "Applied Research"
+
+focus_items:
+  - label: "Best fit"
+    detail: "Data scientist or machine learning engineer roles focused on practical AI systems."
+  - label: "Strongest domains"
+    detail: "Optimization, forecasting, recommender systems, LLM/RAG products, and applied research."
+  - label: "Working style"
+    detail: "Translate ambiguous operational problems into measurable models, pipelines, and decision support."
 
 # Analytics
 google_analytics: "G-1VQTL3W3XN"
