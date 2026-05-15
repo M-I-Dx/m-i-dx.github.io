@@ -1,0 +1,68 @@
+- title: "Supply Chain Optimization Engine"
+  type: "Current applied ML"
+  description: "A solver-agnostic logistics optimization program for shipping, capacity, routing, and demand-priority decisions in forestry operations."
+  impact: "Projected to reduce annual logistics costs by approximately $1.5M."
+  tags:
+    - "Linear programming"
+    - "MIP"
+    - "HiGHS"
+    - "CPLEX"
+    - "Gurobi"
+
+- title: "People-to-People Recommendation System"
+  type: "Product ML"
+  description: "A matching and personalization workflow using LLM-derived features, RAG context, vector search, and behavioral analytics."
+  impact: "Improved recommendation evaluation and similarity search for cloud-native product workflows."
+  tags:
+    - "Recommenders"
+    - "Qdrant"
+    - "RAG"
+    - "BigQuery"
+    - "Firebase"
+
+- title: "Biomedical Lay Summarization with LLMs"
+  type: "NLP research"
+  description: "Generated accessible biomedical research summaries for non-expert audiences using domain-specific LLMs, prompt tuning, RAG, and representation engineering."
+  impact: "Improved factuality, readability, and accessibility of complex biomedical summaries."
+  tags:
+    - "BioMistral7b"
+    - "Prompt engineering"
+    - "RAG"
+    - "Control vectors"
+    - "NLP"
+
+- title: "Annotated Corpus for Reasoning Explanations"
+  type: "LLM reasoning"
+  description: "Created structured natural-language explanations for AI2 Reasoning Challenge questions and used Tree of Thought prompting to guide step-by-step problem solving."
+  impact: "Improved transparency and reasoning quality for complex science-question workflows."
+  tags:
+    - "ARC"
+    - "Tree of Thought"
+    - "Annotation"
+    - "Fine-tuning"
+
+- title: "SpaceML Worldview Search"
+  type: "Earth observation"
+  description: "Active learning system for identifying relevant satellite imagery from petabyte-scale unlabeled Earth observation datasets."
+  impact: "Reduced labeling time from 7,000 hours to 52 minutes for a five-million-image climate dataset."
+  tags:
+    - "Active learning"
+    - "Satellite imagery"
+    - "NASA IMPACT"
+    - "Open source"
+  links:
+    - label: "Code"
+      url: "https://github.com/spaceml-org/Active-Labeler/tree/AL_flowtest"
+
+- title: "Grape Leaf Disease Diagnosis"
+  type: "Mobile ML"
+  description: "Real-time iOS app for grape leaf disease diagnosis with on-device deep learning, remedy suggestions, and model optimization."
+  impact: "Optimized models with quantization and pruning for iPhone 8 and newer devices."
+  tags:
+    - "Swift"
+    - "Core ML"
+    - "TensorFlow Lite"
+    - "CNNs"
+  links:
+    - label: "Code"
+      url: "https://github.com/M-I-Dx/GDD"

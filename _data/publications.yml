@@ -1,37 +1,39 @@
 main:
+  - title: "Deep learning-based explainable target classification for synthetic aperture radar images"
+    authors: "Mandeep, Husanbir Singh Pannu, Avleen Malhi"
+    venue: "International Conference on Human System Interaction"
+    year: "2020"
+    pdf: "https://ieeexplore.ieee.org/abstract/document/9142658"
+    code: "https://github.com/M-I-Dx/MSTAR-Classification"
+    image: "assets/img/publications/hsi2020.png"
+    role: "First author"
+    summary: "Explainable deep learning for SAR target classification, combining model performance with interpretable evidence for high-stakes imagery workflows."
 
-  - title: Deep learning-based explainable target classification for synthetic aperture radar images
-    authors: <strong>Mandeep</strong>, Husanbir Singh Pannu, Avleen Malhi
-    conference_short: HSI
-    conference: International Conference on Human System Interaction <strong>(HSI)</strong>, 2020.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9142658
-    code: https://github.com/M-I-Dx/MSTAR-Classification
-    image: ./assets/img/publications/hsi2020.png
-    notes: First Author
+  - title: "SpaceML Worldview Search - Learnings from an AI citizen scientist team building a NoCode Data Curator from Unlabeled Petabyte Scale Imagery"
+    authors: "Mandeep, NASA IMPACT Team, SpaceML Community"
+    venue: "American Geophysical Union Fall Meeting"
+    year: "2021"
+    pdf: "https://presentations.copernicus.org/EGU21/EGU21-6853_presentation.pdf"
+    code: "https://github.com/spaceml-org/Active-Labeler/tree/AL_flowtest"
+    image: "assets/img/publications/agu2021.png"
+    role: "Co-author"
+    summary: "Lessons from citizen-science tooling for surfacing useful imagery from petabyte-scale unlabeled Earth observation data."
 
-  - title: SpaceML Worldview Search - Learnings from an AI citizen scientist team building a NoCode Data Curator from Unlabeled Petabyte Scale Imagery
-    authors: <strong>Mandeep</strong>, NASA IMPACT Team, SpaceML Community
-    journal: AGU Fall Meeting Abstracts
-    conference_short: AGU
-    conference: American Geophysical Union Fall Meeting (AGU), 2021.
-    pdf: https://presentations.copernicus.org/EGU21/EGU21-6853_presentation.pdf
-    code: https://github.com/spaceml-org/Active-Labeler/tree/AL_flowtest
-    image: ./assets/img/publications/agu2021.png
-    notes: Co-Author
+  - title: "Smartphone Based Grape Leaf Disease Diagnosis and Remedial System Assisted with Explanations"
+    authors: "Avleen Malhi, Vlad Apopei, Manik Madhikermi, Mandeep, Kary Framling"
+    venue: "EXATMAS"
+    year: "2022"
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-15565-9_4"
+    code: "https://github.com/M-I-Dx/GDD"
+    image: "assets/img/publications/exatmas2022.png"
+    role: "Lead developer"
+    summary: "Mobile explainable AI for grape leaf disease diagnosis, built for real-time on-device use and practical field support."
 
-  - title: Smartphone Based Grape Leaf Disease Diagnosis and Remedial System Assisted with Explanations
-    authors: Avleen Malhi, Vlad Apopei, Manik Madhikermi, <strong>Mandeep</strong>, Kary Främling
-    conference_short: EXATMAS
-    conference: International Workshop on Explainable, Transparent Autonomous Agents and Multi-Agent Systems <strong>(EXATMAS)</strong>, 2022.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-15565-9_4
-    code: https://github.com/M-I-Dx/GDD
-    image: ./assets/img/publications/exatmas2022.png
-    notes: Lead Developer
-
-  - title: Machine Learning Based Explainable Financial Forecasting
-    authors: <strong>Mandeep</strong>, Abhishek Agarwal, Amrita Bhatia, Avleen Malhi, Priyal Kaler, Husanbir Singh Pannu
-    conference_short: ICCCI
-    conference: International Conference on Computer Communication and the Internet <strong>(ICCCI)</strong>, 2022.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9850272
-    image: ./assets/img/publications/iccci2022.png
-    notes: First Author
+  - title: "Machine Learning Based Explainable Financial Forecasting"
+    authors: "Mandeep, Abhishek Agarwal, Amrita Bhatia, Avleen Malhi, Priyal Kaler, Husanbir Singh Pannu"
+    venue: "International Conference on Computer Communication and the Internet"
+    year: "2022"
+    pdf: "https://ieeexplore.ieee.org/abstract/document/9850272"
+    image: "assets/img/publications/iccci2022.png"
+    role: "First author"
+    summary: "Explainable forecasting research focused on making model signals more transparent for financial prediction workflows."

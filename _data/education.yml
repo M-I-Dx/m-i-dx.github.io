@@ -1,0 +1,11 @@
+- school: "University of British Columbia"
+  location: "Vancouver, BC"
+  degree: "Master of Data Science in Computational Linguistics"
+  period: "September 2023 - July 2024"
+  detail: "GPA 93.4. Focused on advanced NLP, transformer models, machine learning and optimization, computational linguistics, and interactive data visualization."
+
+- school: "Thapar Institute of Engineering and Technology"
+  location: "Patiala, Punjab, India"
+  degree: "Bachelor of Technology in Computer Engineering"
+  period: "August 2019 - July 2023"
+  detail: "GPA 84.5. Covered data structures and algorithms, AI and machine learning, database systems, and software engineering."

@@ -1,0 +1,15 @@
+- value: "$1.5M"
+  label: "projected annual savings"
+  context: "Optimization work translating supply chain rules, capacity limits, routing choices, and demand priorities into solver-ready formulations."
+
+- value: "7,000h to 52m"
+  label: "labeling time reduction"
+  context: "Active learning pipeline for satellite imagery selection with SpaceML and NASA IMPACT."
+
+- value: "Top 5 / 79"
+  label: "NASA SMD proposal"
+  context: "Research initiative ranking for AI-assisted Earth observation workflows."
+
+- value: "4"
+  label: "published research works"
+  context: "Explainable AI, satellite data curation, mobile ML for agriculture, and machine-learning forecasting."

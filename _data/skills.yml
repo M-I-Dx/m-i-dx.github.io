@@ -1,0 +1,27 @@
+- name: "Optimization and forecasting"
+  items:
+    - "Linear programming and mixed-integer optimization"
+    - "SciPy HiGHS, SCIP, CPLEX, and Gurobi"
+    - "Chronos2, TSMixer, XGBoost, LightGBM, and unit8-darts"
+    - "Backtesting, model comparison, and error analysis"
+
+- name: "Machine learning systems"
+  items:
+    - "PyTorch, TensorFlow, Keras, Hugging Face, and Scikit-learn"
+    - "Recommendation systems and vector search"
+    - "Synthetic data generation and differential privacy"
+    - "Active learning and self-supervised learning"
+
+- name: "Language and data products"
+  items:
+    - "LLMs, RAG, prompt engineering, and control vectors"
+    - "Natural language processing and computational linguistics"
+    - "BigQuery, PostgreSQL, MongoDB, Firebase, and SQL"
+    - "Looker Studio, Plotly, Altair, Matplotlib, and Seaborn"
+
+- name: "Engineering and delivery"
+  items:
+    - "Python, R, JavaScript, Bash, and MATLAB"
+    - "Docker, GitHub Actions, Git, GitHub, and GitLab"
+    - "Azure ML, Microsoft Fabric, GCP Cloud Run, AWS, and Kubernetes"
+    - "Weights & Biases, experiment tracking, and reproducible workflows"
